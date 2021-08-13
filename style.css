@@ -4,11 +4,11 @@
 ul,ol{ list-style: none;}
 
 body{
-      background:url("./picture/3.jpg") ;
+      background:url("./3.jpg") ;
 }
 @media (max-width: 500px) {
      body{
-     background: url("./picture/6.jpg");
+     background: url("./6.jpg");
     }
   }
 /* -------------------------------------------- */
